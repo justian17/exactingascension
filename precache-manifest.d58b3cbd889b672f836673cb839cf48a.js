@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2aaf637c6d8e05e11e3586448e690be6",
+    "revision": "a36e39af365b90801fa61832f6d4fea4",
     "url": "/exactingascension/index.html"
   },
   {
-    "revision": "aff7bd895c8cc7e0ec9e",
+    "revision": "2183f8a30d3d06bc2f84",
     "url": "/exactingascension/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exactingascension/static/js/2.7d8538f8.chunk.js"
   },
   {
-    "revision": "aff7bd895c8cc7e0ec9e",
-    "url": "/exactingascension/static/js/main.8fdc7a3e.chunk.js"
+    "revision": "2183f8a30d3d06bc2f84",
+    "url": "/exactingascension/static/js/main.0f1a032d.chunk.js"
   },
   {
     "revision": "ba3a8555686dce0a2eac",
