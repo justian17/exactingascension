@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/exactingascension/precache-manifest.d58b3cbd889b672f836673cb839cf48a.js"
+  "/exactingascension/precache-manifest.e1cdac3d292cbb68e47432bc2b8e3908.js"
 );
 
 self.addEventListener('message', (event) => {
